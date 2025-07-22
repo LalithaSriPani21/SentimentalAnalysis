@@ -13,7 +13,7 @@ SentimentalAnalysis/
 └── README.md            # Project documentation
 ```
 
-## 🧠 Features
+## Features
 
 - Preprocessing of text data (tokenization, padding)
 - Word embedding using Keras `Embedding` layer
@@ -21,7 +21,7 @@ SentimentalAnalysis/
 - Model training and evaluation
 - Prediction and sentiment classification
 
-## 🚀 How to Run
+## How to Run
 
 ### Requirements
 
@@ -35,18 +35,14 @@ SentimentalAnalysis/
 ### Steps
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/LalithaSriPani21/SentimentalAnalysis.git
    cd SentimentalAnalysis
    ```
-
 2. Launch Jupyter Notebook:
-
    ```bash
    jupyter notebook
    ```
-
 3. Open `rnn.ipynb` and run the cells step-by-step.
 
 ## 📊 Example Output
