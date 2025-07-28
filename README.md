@@ -2,7 +2,7 @@
 
 This project performs **Sentimental Analysis** on textual data using a **Recurrent Neural Network (RNN)**. The model is built and trained using Python in a Jupyter Notebook.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 SentimentalAnalysis/
@@ -45,7 +45,7 @@ SentimentalAnalysis/
    ```
 3. Open `rnn.ipynb` and run the cells step-by-step.
 
-## 📊 Example Output
+## Example Output
 
 The notebook displays the training accuracy and loss, along with sentiment predictions on test sentences.
 
